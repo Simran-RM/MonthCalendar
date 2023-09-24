@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(lightblue,skyblue,seagreen);
+    margin:0px;
+    padding:0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.container {
+    /* You can adjust these styles as needed */
+    background-color: whitesmoke;
+    opacity: 70%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
